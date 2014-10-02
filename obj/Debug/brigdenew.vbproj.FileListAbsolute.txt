@@ -1,0 +1,11 @@
+H:\Visual Studio 2013\Projects\brigdenew\brigdenew\bin\Debug\brigdenew.exe.config
+H:\Visual Studio 2013\Projects\brigdenew\brigdenew\obj\Debug\brigdenew.vbprojResolveAssemblyReference.cache
+H:\Visual Studio 2013\Projects\brigdenew\brigdenew\obj\Debug\brigdenew.Form1.resources
+H:\Visual Studio 2013\Projects\brigdenew\brigdenew\obj\Debug\brigdenew.Resources.resources
+H:\Visual Studio 2013\Projects\brigdenew\brigdenew\obj\Debug\brigdenew.vbproj.GenerateResource.Cache
+H:\Visual Studio 2013\Projects\brigdenew\brigdenew\bin\Debug\brigdenew.exe
+H:\Visual Studio 2013\Projects\brigdenew\brigdenew\bin\Debug\brigdenew.pdb
+H:\Visual Studio 2013\Projects\brigdenew\brigdenew\bin\Debug\brigdenew.xml
+H:\Visual Studio 2013\Projects\brigdenew\brigdenew\obj\Debug\brigdenew.exe
+H:\Visual Studio 2013\Projects\brigdenew\brigdenew\obj\Debug\brigdenew.xml
+H:\Visual Studio 2013\Projects\brigdenew\brigdenew\obj\Debug\brigdenew.pdb
